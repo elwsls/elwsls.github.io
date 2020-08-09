@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://elwsls.github.io</id>
     <title>Gridea</title>
-    <updated>2020-08-09T06:06:10.809Z</updated>
+    <updated>2020-08-09T06:41:18.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://elwsls.github.io"/>
     <link rel="self" href="https://elwsls.github.io/atom.xml"/>
@@ -10,6 +10,44 @@
     <logo>https://elwsls.github.io/images/avatar.png</logo>
     <icon>https://elwsls.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Gridea 检测远程连接 ]]></title>
+        <id>https://elwsls.github.io/post/gridea-jian-ce-yuan-cheng-lian-jie/</id>
+        <link href="https://elwsls.github.io/post/gridea-jian-ce-yuan-cheng-lian-jie/">
+        </link>
+        <updated>2020-08-09T06:14:49.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="背景">背景</h1>
+<p>macOS Catalina 10.15.6<br>
+Gridea 0.92</p>
+<h1 id="现象">现象</h1>
+<p>Gridea 检测远程连接失败<br>
+（开发者工具 Console 界面中提示）IP 地址问题</p>
+<h1 id="分析">分析</h1>
+<p>国内 IP 地址连接 GitHub.com 超时</p>
+<h1 id="解决方案">解决方案</h1>
+<p>修改 hosts 文件<br>
+改为可用的IP地址 <a href="http://ping.chinaz.com/github.com">140.82.113.3</a>      github.com</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gridea 远程连接失败 ]]></title>
+        <id>https://elwsls.github.io/post/gridea-yuan-cheng-lian-jie-shi-bai/</id>
+        <link href="https://elwsls.github.io/post/gridea-yuan-cheng-lian-jie-shi-bai/">
+        </link>
+        <updated>2020-08-09T06:14:49.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="背景">背景</h1>
+<p>macOS Catalina 10.15.6<br>
+Gridea 0.92</p>
+<h1 id="现象">现象</h1>
+<p>Gridea 检测远程连接失败<br>
+（开发者工具 Console 界面）提示 IP 地址问题</p>
+<h1 id="分析">分析</h1>
+<p>IP 地址无法连接 GitHub.com</p>
+<h1 id="解决方案">解决方案</h1>
+<p>修改 hosts 文件<br>
+改 <a href="http://ping.chinaz.com/github.com">IP 地址</a>     连接 github.com</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://elwsls.github.io/post/hello-gridea/</id>
