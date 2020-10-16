@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://elwsls.github.io</id>
     <title>Gridea</title>
-    <updated>2020-10-15T05:49:53.511Z</updated>
+    <updated>2020-10-16T10:00:30.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://elwsls.github.io"/>
     <link rel="self" href="https://elwsls.github.io/atom.xml"/>
@@ -11,7 +11,19 @@
     <icon>https://elwsls.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[用日报缓解焦虑]]></title>
+        <title type="html"><![CDATA[「反水」]]></title>
+        <id>https://elwsls.github.io/post/fan-shui/</id>
+        <link href="https://elwsls.github.io/post/fan-shui/">
+        </link>
+        <updated>2020-10-16T09:02:25.000Z</updated>
+        <content type="html"><![CDATA[<p>「三家分晋」是《资治通鉴》战国时代故事的开始。而时间更早一些，却是 赵、智、魏、韩四大家族控制晋国。</p>
+<p>智家新族长智瑶在赵家老族长去逝后掌握了晋国的政务大权。他想扩大自己的权势，于是逼迫其它三个家族割地向他低头。韩、魏两家的族长韩虎、魏驹低头了，但赵家的新族长赵无恤坚决不割地。于是智瑶联合韩虎、魏驹攻打赵无恤府宅。赵无恤慌忙逃回老家晋阳。智瑶亲率联合军攻击晋阳。军队先是四面包围，密不透风，然后决开汾水，使波浪滔天，与晋阳城头仅三块木板的惊险差距险些灌进去。晋阳城内艰苦支持，浸透过来的河水越来越多，民众的炉灶都已告崩塌。遍地鱼蛙，然而赵家一直善待民众，使民心坚决，没有人想到投降。于是战事一时进展缓慢。</p>
+<p>智瑶在高冈上巡视，魏驹、韩虎陪同。智瑶说，我今天才知道水可以毁灭一个城池。魏驹用手肘轻轻碰了一下韩虎，韩虎用脚轻轻碰了一下魏驹。汾水可以淹没赵家的根据地晋阳，也可以淹没魏家、韩家的根据地。魏驹、韩虎意识到，智瑶有了一项巨大杀伤力的武器，而他们却无法牵制使其平衡。忧惧下，魏家、韩家与赵家的使者秘密结盟了。在约定的日子，赵无恤派出精锐部队突击智瑶守军，反决堤坝，倒灌智瑶守军。守军仓促救水，阵营大乱。韩、魏乘机从两翼夹击攻击智瑶军队。赵无恤亲率士卒攻击智瑶军队，生擒智瑶后立即斩首。接着智家被全部屠杀。</p>
+<p>魏家、韩家的阵前反水，自此与赵家合力覆灭了实力最强的智家。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日报模板分享]]></title>
         <id>https://elwsls.github.io/post/yong-ri-bao-huan-jie-jiao-lu/</id>
         <link href="https://elwsls.github.io/post/yong-ri-bao-huan-jie-jiao-lu/">
         </link>
@@ -21,7 +33,7 @@
 另有学习需求</p>
 <h1 id="现象">现象</h1>
 <p>需要做的事很多<br>
-在焦虑中度过时间</p>
+却在焦虑中度过时间</p>
 <h1 id="分析">分析</h1>
 <p>使用工具，缓解思维压力</p>
 <h1 id="方案">方案</h1>
@@ -554,7 +566,9 @@ Journal（日报/周报）</p>
 <li>Need：
 <ul>
 <li>说明：回顾当日工作进展时，有哪些内容需要他人协助才能推动？</li>
-<li>模板：任务描述 + 需求 + 对应人</li>
+<li>模板：任务描述 + 需求 + 对应人<br>
+缺陷<br>
+网络封锁会使 WorkFlowy 无法使用，建议定期归档日报/周报，形成月报/年报</li>
 </ul>
 </li>
 </ul>
